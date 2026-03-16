@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 subgraph pribor [Блок ПРИБОР]
     title[<em>Блок ПРИБОР</em>]
@@ -64,3 +65,4 @@ subgraph master [Блок МАСТЕР]
     class h9,h11 cond;
     class h13 navig;
 end
+```
